@@ -9,6 +9,7 @@
 - Infinite scroll
 - Styled components
 - Loading (Activity Indicator)
+- AsyncStorage
 
 ### Pics
 
