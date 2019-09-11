@@ -13,6 +13,9 @@
 
 ### Pics 
 
-![2019_09_11_11_24_57](https://user-images.githubusercontent.com/44209758/64742158-9be15500-d4d1-11e9-8979-e5749af42186.jpg)
-![2019_09_11_11_25_24](https://user-images.githubusercontent.com/44209758/64742159-9be15500-d4d1-11e9-8e53-c34ff8247c8f.jpg)
-![2019_09_11_11_25_32](https://user-images.githubusercontent.com/44209758/64742160-9be15500-d4d1-11e9-9da2-ab7f0c48f947.jpg)
+![gostack-module6-01](https://user-images.githubusercontent.com/44209758/64742456-aea85980-d4d2-11e9-8510-bfcc5e6df15e.png)
+
+![gostack-module6-1](https://user-images.githubusercontent.com/44209758/64742455-aea85980-d4d2-11e9-9dfd-3853fa9ebc89.png)
+
+![gostack-module6-2](https://user-images.githubusercontent.com/44209758/64742457-aea85980-d4d2-11e9-80ed-c768e61f90c4.png)
+
