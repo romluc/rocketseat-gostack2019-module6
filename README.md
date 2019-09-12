@@ -2,10 +2,11 @@
 
 ## App built using React Native to consume github api :octocat:
 
-### Features
+### Features 👨🏻‍🚀
 
 - Fetch repos starred by user from github, rendering through - WebViews
 - Pull to refresh
 - Infinite scroll
 - Styled components
 - Loading (Activity Indicator)
+- AsyncStorage

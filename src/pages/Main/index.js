@@ -59,6 +59,8 @@ export default class Main extends Component {
   handleAddUser = async () => {
     const { users, newUser } = this.state;
 
+    if (!newUser) return;
+
     this.setState({ loading: true });
 
     const response = await api.get(`/users/${newUser}`);
